@@ -1,4 +1,4 @@
-# Data-Structure C++
+# Data-Structure Parcel System C++
 ## Introduction
 Simple parcel system to store parcel information into system. System will store user's information, parcel information into text file. In this system text file acts like a small database to store all the information.
 ### Text file
